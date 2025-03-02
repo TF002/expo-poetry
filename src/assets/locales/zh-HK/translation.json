@@ -1,0 +1,17 @@
+{
+    "index": {
+        "list": {
+            "des1": "使用 JavaScript 和 React 構建原生移動應用的開源框架。支持熱重載，可同時開發 iOS 和 Android 應用，具有原生性能。",
+            "des2": "基於 React Native 的開發平台，提供完整的開發工具鏈。無需配置原生環境，快速開發和部署移動應用。",
+            "des3": "可自定義的底部彈出抽屜組件，支持手勢交互、多個停靠點和自定義內容。",
+            "des4": "Wix 開發的 React Native UI 組件庫，提供豐富的可定制組件和動畫效果。支持主題定制和響應式設計。",
+            "des5": "Tamagui 是一個為 React 和 React Native 提供的高性能 UI 庫，專注於跨平台樣式系統，優化了佈局和動畫性能。",
+            "des6": "提供全面的 Material Design 組件，適合快速開發現代化應用。",
+            "des7": "一套跨平台的 UI 組件庫，設計靈活，適合不同風格的應用。",
+            "des8": "一個流行的 UI 庫，提供豐富的組件，支持自定義主題，適合 React Native 和 Web。",
+            "des9": "提供基於 Eva Design System 的跨平台組件，主題配置非常強大。",
+            "des10": "模塊化且可自定義的 Material Design UI 組件，專為 React Native 設計。",
+            "des11": "提供優雅的 UI 組件，支持快速原型設計。"
+        }
+    }
+}

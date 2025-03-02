@@ -1,0 +1,17 @@
+{
+    "index": {
+        "list": {
+            "des1": "Open-source framework for building native mobile apps with JavaScript and React, supporting hot reloading on iOS and Android.",
+            "des2": "React Native-based platform for fast app development and deployment without native setup.",
+            "des3": "Customizable bottom popup drawer with gestures, multiple docking points, and custom content.",
+            "des4": "Wix's React Native UI library with customizable components, animations, and responsive design.",
+            "des5": "Tamagui: high-performance UI library for React and React Native with optimized layout and animations.",
+            "des6": "Material Design components for fast, modern app development.",
+            "des7": "Flexible cross-platform UI library for various app styles.",
+            "des8": "Popular UI library with rich components and custom themes for React Native and Web.",
+            "des9": "Cross-platform components based on Eva Design System with powerful theme support.",
+            "des10": "Modular and customizable Material Design components for React Native.",
+            "des11": "Elegant UI components for rapid prototyping."
+        }
+    }
+}
