@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "af31d46f-2736-4def-803d-ce6e9d647587"
+      }
+    },
+    "owner": "daniel_tsf"
   }
 }
