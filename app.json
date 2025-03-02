@@ -4,7 +4,7 @@
     "slug": "expo-poetry",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./src/assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
@@ -45,6 +45,12 @@
         "projectId": "af31d46f-2736-4def-803d-ce6e9d647587"
       }
     },
-    "owner": "daniel_tsf"
+    "owner": "daniel_tsf",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/af31d46f-2736-4def-803d-ce6e9d647587"
+    }
   }
 }
