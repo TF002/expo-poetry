@@ -5,7 +5,7 @@ import { Platform, StyleSheet } from "react-native";
 
 const TabBarBackground = () => {
   return (
-    <BlurView style={styles.container} intensity={Platform.OS === "ios" ? 80 : 100} >
+    <BlurView style={styles.container} intensity={Platform.OS === "ios" ? 60 : 100} >
       {/* You can add additional content here if needed */}
     </BlurView>
   );
