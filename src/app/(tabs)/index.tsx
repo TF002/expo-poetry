@@ -71,7 +71,7 @@ const HomeScreen = () => {
 
 const styles = StyleSheet.create({
     scrollContainer: {
-        paddingBottom: 60,
+        // paddingBottom: 60,
     },
     content: {
         padding: 20,
